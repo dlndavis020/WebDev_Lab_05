@@ -1,0 +1,29 @@
+.header {
+    text-align: center;
+    padding: 35px;
+    background: #F0EBE3;
+}
+
+.middle-left{
+    width: 500px;
+    height: 500px;
+    padding-left: 50px;
+    padding-top: 100px;
+}
+
+.middle {
+    padding-top: 100px;
+}
+
+.middle table{
+    border: 1px solid;
+}
+
+.middle th, td{
+    border: 1px solid;
+    text-align: center;
+}
+
+.middle-right {
+    padding-top: 100px;
+}
